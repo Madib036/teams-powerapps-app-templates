@@ -225,3 +225,4 @@ jobs:
         asset_path: AppPackages.zip
         asset_name: AppPackages.zip
         asset_content_type: application/zip
+[![BuildAndRelease](https://github.com/microsoft/teams-powerapps-app-templates/actions/workflows/release.yml/badge.svg?branch=main&event=merge_group)](https://github.com/microsoft/teams-powerapps-app-templates/actions/workflows/release.yml)
