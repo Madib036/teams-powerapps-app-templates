@@ -21,3 +21,6 @@ class App extends Component {
 }
 
 export default App;
+  [options]
++ module.name_mapper='^\([^\.].*\)$' -> '<PROJECT_ROOT>/src/\1'  
+[options] + module.name_mapper='^\([^\.].*\)$' -> '<PROJECT_ROOT>/src/\1'
